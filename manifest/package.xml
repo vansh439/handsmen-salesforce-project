@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+  <!-- Custom Objects -->
+  <types>
+    <members>HandsMen_Customer__c</members>
+    <members>HandsMen_Product__c</members>
+    <members>HandsMen_Order__c</members>
+    <members>Inventory__c</members>
+    <members>Marketing_Campaign__c</members>
+    <name>CustomObject</name>
+  </types>
+
+  <!-- Custom Tabs -->
+  <types>
+    <members>HandsMen_Customer__c</members>
+    <members>HandsMen_Product__c</members>
+    <members>HandsMen_Order__c</members>
+    <members>Inventory__c</members>
+    <members>Marketing_Campaign__c</members>
+    <name>CustomTab</name>
+  </types>
+
+  <!-- Custom Fields -->
+  <types>
+    <members>*</members>
+    <name>CustomField</name>
+  </types>
+
+  <!-- Layouts -->
+  <types>
+    <members>*</members>
+    <name>Layout</name>
+  </types>
+
+  <!-- Profiles -->
+  <types>
+    <members>*</members>
+    <name>Profile</name>
+  </types>
+
+  <!-- Roles -->
+  <types>
+    <members>*</members>
+    <name>Role</name>
+  </types>
+
+  <!-- Permission Sets -->
+  <types>
+    <members>*</members>
+    <name>PermissionSet</name>
+  </types>
+
+  <!-- Apex Classes -->
+  <types>
+    <members>*</members>
+    <name>ApexClass</name>
+  </types>
+
+  <!-- Apex Triggers -->
+  <types>
+    <members>*</members>
+    <name>ApexTrigger</name>
+  </types>
+
+  <!-- Flows -->
+  <types>
+    <members>*</members>
+    <name>Flow</name>
+  </types>
+
+  <!-- Email Templates -->
+  <types>
+    <members>*</members>
+    <name>EmailTemplate</name>
+  </types>
+
+  <!-- Letterheads -->
+  <types>
+    <members>*</members>
+    <name>Letterhead</name>
+  </types>
+
+  <!-- Lightning App Pages -->
+  <types>
+    <members>*</members>
+    <name>FlexiPage</name>
+  </types>
+
+  <!-- Lightning Apps -->
+  <types>
+    <members>*</members>
+    <name>CustomApplication</name>
+  </types>
+
+  <!-- List Views -->
+  <types>
+    <members>*</members>
+    <name>ListView</name>
+  </types>
+
+  <!-- Record Types -->
+  <types>
+    <members>*</members>
+    <name>RecordType</name>
+  </types>
+
+  <!-- Validation Rules -->
+  <types>
+    <members>*</members>
+    <name>ValidationRule</name>
+  </types>
+
+  <!-- Workflow Rules -->
+  <types>
+    <members>*</members>
+    <name>Workflow</name>
+  </types>
+
+  <!-- Custom Metadata -->
+  <types>
+    <members>*</members>
+    <name>CustomMetadata</name>
+  </types>
+
+  <!-- API Version -->
+  <version>59.0</version>
+
+</Package>
