@@ -33,9 +33,7 @@ Salesforce Capstone Project for **HandsMen Threads** – a simulated CRM system 
 
 ---
 
-## 📁 Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some helpful documentation resources:
 
 - [Salesforce Development Models](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models)
 - [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm)
